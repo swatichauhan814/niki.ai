@@ -45,7 +45,7 @@ long long int modfib(long long int n)
 int main()
 {
 	long long int t;
-	cin >> t;
+	cin>>t;
 	while(t--)
 	{
 		long long int n;
